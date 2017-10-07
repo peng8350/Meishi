@@ -1,0 +1,12 @@
+<component name="libraryTable">
+  <library name="LoadingProgress-1.0.5">
+    <CLASSES>
+      <root url="jar://$PROJECT_DIR$/app/build/intermediates/exploded-aar/com.jpeng/LoadingProgress/1.0.5/jars/classes.jar!/" />
+      <root url="file://$PROJECT_DIR$/app/build/intermediates/exploded-aar/com.jpeng/LoadingProgress/1.0.5/res" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES>
+      <root url="jar://$USER_HOME$/.gradle/caches/modules-2/files-2.1/com.jpeng/LoadingProgress/1.0.5/54d13da6e3f9d3ada7a3d92473e71eb3ad1ebcce/LoadingProgress-1.0.5-sources.jar!/" />
+    </SOURCES>
+  </library>
+</component>

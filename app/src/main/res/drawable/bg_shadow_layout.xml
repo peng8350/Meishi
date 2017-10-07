@@ -1,0 +1,34 @@
+<layer-list xmlns:android="http://schemas.android.com/apk/res/android">
+
+    <!-- Bottom 2dp Shadow ：底部阴影层-->
+    <item>
+        <shape android:shape="rectangle">
+            <solid android:color="#BBB"/>
+
+            <corners android:radius="4dp"/>
+        </shape>
+    </item>
+
+    <!-- White Top color：顶部层 -->
+    <item
+            android:bottom="1px"
+            android:left="1px"
+            android:right="1px"
+            android:top="1px">
+        <shape android:shape="rectangle">
+            <solid android:color="@color/white"/>
+
+            <corners android:radius="4dp"/>
+
+
+
+            <!--设置边框 宽度=1px，颜色为skyBluesss-->
+            <stroke
+                    android:width="1px"
+                    android:color="#aeaeae"/>
+
+
+        </shape>
+    </item>
+
+</layer-list>

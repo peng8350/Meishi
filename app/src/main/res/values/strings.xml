@@ -1,0 +1,33 @@
+<resources>
+    <string name="app_name">美食</string>
+
+    <string name="Main_Tab1">首页</string>
+    <string name="Main_Tab2">店铺</string>
+    <string name="Main_Tab3">发现</string>
+
+    <string name="Menu_tab1">我的收藏</string>
+    <string name="Menu_tab2">我的足迹</string>
+    <string name="Menu_tab3">我的发表</string>
+    <string name="Menu_tab4">我的消息</string>
+    <string name="Menu_tab5">设置</string>
+    <string name="Menu_tab6">退出</string>
+    <string name="Loading">正在加載</string>
+    <string name="Mkind1">汉堡</string>
+    <string name="Mkind2">早餐</string>
+    <string name="Mkind3">下午茶</string>
+    <string name="Mkind4">粤菜</string>
+    <string name="Mkind5">甜品</string>
+    <string name="Mkind6">西餐</string>
+    <string name="Press_exit">再按一次退出程序</string>
+    <string name="Home_m1">热门标题</string>
+    <string name="Home_m2">今日推荐</string>
+    <string name="Home_m3">美食指引</string>
+    <string name="frag3_top1">食友动态</string>
+    <string name="frag3_top3">轻松做美食</string>
+    <string name="frag3_top2">店铺活动</string>
+    <string name="pullup_refresh">拼命加载中...</string>
+    <string name="pullup_release">释放即可加载更多</string>
+    <string name="pullup_pull">上拉加载更多..</string>
+
+
+</resources>

@@ -1,0 +1,95 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+                xmlns:fresco="http://schemas.android.com/apk/res-auto"
+                xmlns:app="http://schemas.android.com/apk/res-auto"
+                android:layout_width="match_parent"
+                android:background="@drawable/lv_bg"
+                android:paddingTop="10dp"
+                android:paddingBottom="10dp"
+                android:layout_height="match_parent">
+
+    <com.facebook.drawee.view.SimpleDraweeView
+        android:id="@+id/item_meishi_image"
+        android:layout_width="110dp"
+        android:layout_marginRight="5dp"
+        fresco:actualImageScaleType="centerCrop"
+        fresco:placeholderImage="@drawable/loading1"
+        fresco:placeholderImageScaleType="centerCrop"
+        fresco:roundedCornerRadius="6dp"
+        android:layout_height="110dp"
+        android:layout_marginLeft="5dp"/>
+
+    <TextView
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:singleLine="true"
+        android:text="New Text"
+        android:id="@+id/item_meishi_title"
+        android:layout_alignParentTop="true"
+        android:textSize="@dimen/bigsize"
+        android:layout_toRightOf="@+id/item_meishi_image"
+        />
+
+    <com.iarcuschin.simpleratingbar.SimpleRatingBar
+        android:id="@+id/item_meishi_ratingbar"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        app:srb_starSize="15dp"
+        app:srb_numberOfStars="5"
+        app:srb_rating="3"
+        app:srb_maxStarSize="10.0dp"
+        app:srb_starBorderWidth="3.0"
+        app:srb_isIndicator="true"
+        app:srb_drawBorderEnabled="true"
+        app:srb_borderColor="@color/rating_border"
+        app:srb_fillColor="@color/rating_process"
+        android:layout_below="@+id/item_meishi_title"
+        android:layout_toRightOf="@+id/item_meishi_image"
+        android:layout_toEndOf="@+id/item_meishi_image"
+        android:layout_marginTop="10dp"/>
+
+    <TextView
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:text="Medium Text"
+        android:id="@+id/item_Meishi_pingjia"
+        android:textSize="@dimen/middlesize"
+        android:textColor="#c4beb3"
+        android:layout_alignBottom="@+id/item_meishi_image"
+        android:layout_alignLeft="@+id/item_meishi_place"
+        android:layout_alignStart="@+id/item_meishi_place"/>
+
+    <TextView
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:text="Medium Text"
+        android:textSize="@dimen/smallsize"
+        android:textColor="#F4A322"
+        android:drawableLeft="@drawable/coins"
+        android:layout_alignParentTop="true"
+        android:id="@+id/item_meishi_money"
+        android:layout_alignParentRight="true"
+       />
+
+    <TextView
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:text="Small Text"
+        android:id="@+id/item_meishi_score"
+        android:layout_alignTop="@+id/item_meishi_ratingbar"
+        android:layout_toRightOf="@+id/item_meishi_ratingbar"
+        />
+
+    <TextView
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:text="Medium Text"
+        android:id="@+id/item_meishi_place"
+        android:textSize="@dimen/middlesize"
+        android:textColor="#c4beb3"
+        android:layout_below="@+id/item_meishi_score"
+        android:layout_toRightOf="@+id/item_meishi_image"
+        android:layout_toEndOf="@+id/item_meishi_image"
+        android:layout_marginTop="10dp"/>
+
+</RelativeLayout>

@@ -1,0 +1,68 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+                xmlns:fresco="http://schemas.android.com/apk/res-auto"
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:clickable="true"
+                android:gravity="center">
+
+    <RelativeLayout
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:layout_margin="5dp"
+        android:background="@drawable/bg_shadow_layout"
+        >
+
+        <com.facebook.drawee.view.SimpleDraweeView
+            android:id="@+id/item_shop_search_pic"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            fresco:actualImageScaleType="centerCrop"
+            fresco:fadeDuration="150"
+            fresco:placeholderImage="@drawable/loading2"
+            fresco:placeholderImageScaleType="centerCrop"
+            fresco:roundBottomLeft="false"
+            fresco:roundBottomRight="false"
+            fresco:roundTopLeft="true"
+            fresco:roundTopRight="true"
+            fresco:roundedCornerRadius="4dp"
+
+            />
+
+        <TextView
+            android:id="@+id/item_frag2_shop_name"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_below="@id/item_shop_search_pic"
+            android:layout_marginTop="5dp"
+            android:text="字段1店铺名字"
+            android:textColor="@color/black"
+            android:textSize="@dimen/middlesize"
+            />
+
+        <TextView
+            android:id="@+id/item_shop_search_time"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_below="@id/item_frag2_shop_name"
+            android:layout_marginTop="6dp"
+            android:text="字段2"
+            android:textColor="@color/gray"
+
+            android:textSize="@dimen/middlesize"
+            />
+
+        <TextView
+            android:id="@+id/item_frag2_shop_intro"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_below="@id/item_shop_search_time"
+
+            android:layout_marginTop="3dp"
+            android:text="字段1店铺介绍"
+            android:textColor="@color/gray"
+            android:textSize="@dimen/smallsize"
+            />
+    </RelativeLayout>
+
+</RelativeLayout>

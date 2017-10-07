@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="tab_bg">#fff</color>
+
+    <color name="navegive_color">#fab27b</color>
+    <color name="lightgray">#eaeaea</color>
+    <color name="darkgray">#bfbfbf</color>
+    <color name="black">#000000</color>
+    <color name="Main_bg">#F1E5E7</color>
+    <color name="MGray">#8e8e8e</color>
+    <!--图片悬浮效果颜色 -->
+    <color name="PicFloat">#66aaaaaa</color>
+    <!--列表按住的颜色-->
+    <color name="pressed_gray">#144AE0D8</color>
+
+    <!--tab不按住颜色-->
+    <color name = "background_tab_pressed">#50fab27b</color>
+
+    <!--评分已有颜色-->
+    <color name="rating_process">#E27510</color>
+    <!--评分边缘颜色-->
+    <color name="rating_border">#FBB97C</color>
+
+    <!--分割线颜色-->
+    <color name="diver_color">#e1e1e1</color>
+
+
+</resources>

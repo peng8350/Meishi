@@ -1,0 +1,84 @@
+<com.peng.meishi.widget.StickyNavLayout xmlns:tools="http://schemas.android.com/tools"
+                                        xmlns:android="http://schemas.android.com/apk/res/android"
+                                        xmlns:stick="http://schemas.android.com/apk/res-auto"
+                                        android:id="@+id/frag3_sticklayout"
+                                        android:layout_width="match_parent"
+                                        android:layout_height="match_parent"
+                                        stick:isStickNav="true"
+                                        android:orientation="vertical">
+<LinearLayout
+    android:id="@id/id_stickynavlayout_topview"
+    android:layout_width="match_parent"
+    android:layout_height="wrap_content">
+    <LinearLayout
+
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:orientation="horizontal"
+        android:background="#fff">
+
+        <TextView
+            android:id="@+id/tv_frag3_top1"
+            android:layout_width="match_parent"
+            android:layout_height="match_parent"
+            android:paddingTop="15dp"
+            android:paddingBottom="15dp"
+            android:gravity="center"
+            android:layout_weight="3"
+            android:drawableTop="@drawable/frag3_top1"
+            android:text="@string/frag3_top1"
+            android:drawablePadding="8dp"
+            android:textColor="#afafaf"
+            android:background="@drawable/lv_bg"
+            android:textSize="@dimen/middlesize"
+            />
+
+        <TextView
+            android:id="@+id/tv_frag3_top2"
+            android:layout_width="match_parent"
+            android:layout_height="match_parent"
+            android:drawablePadding="8dp"
+            android:gravity="center"
+            android:drawableTop="@drawable/frag3_top2"
+            android:text="@string/frag3_top2"
+            android:background="@drawable/lv_bg"
+            android:paddingTop="15dp"
+            android:paddingBottom="15dp"
+            android:layout_weight="3"
+            android:textColor="#afafaf"
+            android:textSize="@dimen/middlesize"
+            />
+
+        <TextView
+            android:id="@+id/tv_frag3_top3"
+            android:layout_width="match_parent"
+            android:layout_height="match_parent"
+            android:gravity="center"
+            android:drawableTop="@drawable/frag3_top3"
+            android:drawablePadding="8dp"
+            android:layout_weight="3"
+            android:background="@drawable/lv_bg"
+            android:paddingTop="15dp"
+            android:paddingBottom="15dp"
+            android:text="@string/frag3_top3"
+            android:textColor="#afafaf"
+            android:textSize="@dimen/middlesize"
+            />
+
+    </LinearLayout>
+</LinearLayout>
+    <com.peng.meishi.widget.PagerSlidingTabStrip
+        android:id="@id/id_stickynavlayout_indicator"
+        android:layout_width="match_parent"
+        android:layout_height="50dp"
+        android:background="#ffffffff">
+    </com.peng.meishi.widget.PagerSlidingTabStrip>
+
+    <android.support.v4.view.ViewPager
+        android:id="@id/id_stickynavlayout_viewpager"
+        android:layout_width="match_parent"
+        android:layout_height="match_parent"
+        >
+    </android.support.v4.view.ViewPager>
+
+</com.peng.meishi.widget.StickyNavLayout>

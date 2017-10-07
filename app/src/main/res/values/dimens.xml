@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <dimen name="moresmallsize">12sp</dimen>
+    <dimen name="smallsize">14sp</dimen>
+    <dimen name="middlesize">16sp</dimen>
+    <dimen name="bigsize">18sp</dimen>
+    <dimen name="morebigsize">21sp</dimen>
+
+    <dimen name="menu_behindoffset">16dp</dimen>
+    <dimen name="menu_behindwidth">80dp</dimen>
+    <!-- Default screen margins, per the Android Design guidelines. -->
+    <dimen name="activity_horizontal_margin">16dp</dimen>
+    <dimen name="activity_vertical_margin">16dp</dimen>
+</resources>

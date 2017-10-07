@@ -1,0 +1,67 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+                xmlns:fresco="http://schemas.android.com/apk/res-auto"
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:clickable="true"
+                android:gravity="center">
+
+    <RelativeLayout
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:layout_margin="5dp"
+        >
+
+        <com.facebook.drawee.view.SimpleDraweeView
+            android:id="@+id/item_shop_search_pic"
+            android:layout_width="90dp"
+            android:layout_height="90dp"
+            fresco:actualImageScaleType="centerCrop"
+            fresco:fadeDuration="150"
+            fresco:placeholderImage="@drawable/loading2"
+            fresco:placeholderImageScaleType="centerCrop"
+            fresco:roundBottomLeft="false"
+            fresco:roundBottomRight="false"
+            fresco:roundTopLeft="true"
+            fresco:roundTopRight="true"
+            fresco:roundedCornerRadius="4dp"
+
+            />
+
+        <TextView
+            android:id="@+id/item_shop_search_name"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:text="字段1店铺名字"
+            android:textColor="@color/black"
+            android:textSize="@dimen/middlesize"
+            android:layout_alignParentTop="true"
+            android:layout_toRightOf="@+id/item_shop_search_pic"
+            android:layout_toEndOf="@+id/item_shop_search_pic"/>
+
+        <TextView
+            android:id="@+id/item_shop_search_time"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:text="字段2"
+            android:textColor="@color/gray"
+
+            android:textSize="@dimen/middlesize"
+            android:layout_alignBottom="@+id/item_shop_search_pic"
+            android:layout_toRightOf="@+id/item_shop_search_pic"
+            android:layout_toEndOf="@+id/item_shop_search_pic"/>
+
+        <TextView
+            android:id="@+id/item_shop_search_phone"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:drawableLeft="@drawable/phone_small"
+            android:text="字段1店铺介绍"
+            android:textColor="@color/gray"
+            android:textSize="@dimen/smallsize"
+            android:layout_alignParentBottom="true"
+            android:layout_alignParentRight="true"
+            android:layout_alignParentEnd="true"/>
+    </RelativeLayout>
+
+</RelativeLayout>

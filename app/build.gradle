@@ -1,0 +1,84 @@
+apply plugin: 'com.android.application'
+apply plugin: 'com.neenbedankt.android-apt'
+android {
+    compileSdkVersion 23
+    buildToolsVersion '23.0.1'
+
+    sourceSets{
+        main{
+            jniLibs.srcDir(['libs'])
+        }
+    }
+    //签名
+    signingConfigs {
+        debug {
+            storeFile file("/home/jpeng/android开发/APK钥匙/mykey")
+            storePassword "28117896"
+            keyAlias "peng"
+            keyPassword "28117896"
+        }
+        release {// 自己的签名文件
+            storeFile file("/home/jpeng/android开发/APK钥匙/mykey")
+            storePassword "28117896"
+            keyAlias "peng"
+            keyPassword "28117896"
+        }
+    }
+
+    defaultConfig {
+        applicationId "com.peng.meishi"
+        minSdkVersion 15
+        targetSdkVersion 23
+        versionCode 1
+        versionName "1.0"
+        multiDexEnabled true
+    }
+    buildTypes {
+        debug {
+            signingConfig signingConfigs.release
+        }
+        release {
+            // 移除无用的resource文件
+            shrinkResources true
+            //Zipalign优化
+            zipAlignEnabled true
+            minifyEnabled true
+            //签名
+            signingConfig signingConfigs.release
+            proguardFiles getDefaultProguardFile('proguard-android.txt'), 'proguard-rules.pro'
+        }
+    }
+    configurations {
+        all*.exclude module: 'jsr305'
+    }
+
+
+}
+
+dependencies {
+    //facebook
+    compile fileTree(include: '*.jar', dir: 'libs')
+    compile 'com.jpeng:LoadingProgress:1.0.5'
+    compile 'in.srain.cube:grid-view-with-header-footer:1.0.12'
+    compile 'com.iarcuschin:simpleratingbar:0.1.3'
+    compile 'com.handmark.pulltorefresh.library:PullToRefreshLibrary:2.1.1'
+    compile 'net.qiujuer.genius:blur:2.0.0'
+    compile 'com.blankj:utilcode:1.2.1'
+    compile 'cn.bingoogolapple:bga-titlebar:1.0.3'
+    compile 'me.majiajie:pager-bottom-tab-strip:1.0.0'
+    compile 'com.felipecsl.asymmetricgridview:library:2.0.1'
+    compile 'cn.finalteam:galleryfinal:1.4.8.7'
+    compile 'cn.bingoogolapple:bga-banner:2.0.9@aar'
+    compile 'org.androidannotations:androidannotations:4.1.0'
+    compile 'com.facebook.fresco:fresco:0.14.1'
+    compile 'com.facebook.fresco:imagepipeline-okhttp3:0.14.1'
+    compile 'com.facebook.stetho:stetho:1.4.1'
+    compile 'com.zhy:okhttputils:2.6.2'
+    compile 'com.github.satyan:sugar:1.5'
+    compile 'com.specyci:residemenu:1.6+'
+    compile 'com.joanzapata.android:base-adapter-helper:1.1.11'
+    compile 'com.github.dongjunkun:DropDownMenu:1.0.3'
+    compile 'com.miguelcatalan:materialsearchview:1.4.0'
+    compile 'com.jpeng:jpspringmenu:1.0.3'
+}
+

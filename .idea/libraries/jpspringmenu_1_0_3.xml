@@ -1,0 +1,12 @@
+<component name="libraryTable">
+  <library name="jpspringmenu-1.0.3">
+    <CLASSES>
+      <root url="file://$PROJECT_DIR$/app/build/intermediates/exploded-aar/com.jpeng/jpspringmenu/1.0.3/res" />
+      <root url="jar://$PROJECT_DIR$/app/build/intermediates/exploded-aar/com.jpeng/jpspringmenu/1.0.3/jars/classes.jar!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES>
+      <root url="jar://$USER_HOME$/.gradle/caches/modules-2/files-2.1/com.jpeng/jpspringmenu/1.0.3/b831e736af0ef0eaab0fddeb8acaa845aefb524d/jpspringmenu-1.0.3-sources.jar!/" />
+    </SOURCES>
+  </library>
+</component>

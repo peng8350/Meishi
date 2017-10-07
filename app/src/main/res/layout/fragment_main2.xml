@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+                xmlns:pla="http://schemas.android.com/apk/res-auto"
+                android:layout_width="match_parent"
+                android:layout_height="match_parent"
+                android:background="@color/Main_bg">
+
+    <com.peng.meishi.widget.Xview.XListView
+        android:id="@+id/frag_main2_MultiColumnListView"
+        android:layout_width="match_parent"
+        android:layout_height="match_parent"
+        android:scrollbars="vertical"
+
+        pla:plaColumnNumber="2"
+        pla:plaColumnPaddingLeft="3dp"
+        pla:plaColumnPaddingRight="3dp"
+        pla:plaLandscapeColumnNumber="0"/>
+
+</RelativeLayout>

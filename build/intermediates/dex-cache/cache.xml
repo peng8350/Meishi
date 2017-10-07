@@ -1,0 +1,411 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        jar="/home/jpeng/Project/Meishi/app/build/intermediates/incremental-classes/debug/instant-run-bootstrap.jar"
+        jumboMode="true"
+        revision="23.0.1"
+        sha1="ce700ed7e2e1c7bbe7a0af463dcda1dfdadabeae">
+        <dex dex="/home/jpeng/Project/Meishi/app/build/intermediates/transforms/dex/debug/folders/1000/10/instant-run-bootstrap_c800877f8bb5fa744e78bbc51f6669d76b3d5229/classes.dex" />
+    </item>
+    <item
+        jar="/home/jpeng/Project/Meishi/app/build/intermediates/incremental-runtime-classes/debug/instant-run.jar"
+        jumboMode="true"
+        revision="23.0.1"
+        sha1="a9ecbb5696f9751d536ec7c13eaeac46e0c9f5a9">
+        <dex dex="/home/jpeng/Project/Meishi/app/build/intermediates/transforms/dex/debug/folders/1000/10/instant-run_2073efa7cfbbcc19c4e5326183a8bb61f4d2827d/classes.dex" />
+    </item>
+    <item
+        jar="/home/jpeng/Project/Meishi/app/build/intermediates/exploded-aar/com.facebook.fresco/fbcore/0.14.1/jars/classes.jar"
+        jumboMode="true"
+        revision="23.0.1"
+        sha1="e5bf70f3683146e4875c006624543cb0a13eac91">
+        <dex dex="/home/jpeng/Project/Meishi/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.facebook.fresco-fbcore-0.14.1_3a234956f07f0e34a9369e80aaf01ffbc89f2d2a/classes.dex" />
+    </item>
+    <item
+        jar="/home/jpeng/Project/Meishi/app/build/intermediates/exploded-aar/com.facebook.fresco/drawee/0.14.1/jars/classes.jar"
+        jumboMode="true"
+        revision="23.0.1"
+        sha1="cf5e2940501f8f7b9175df6491cebb84f5690f14">
+        <dex dex="/home/jpeng/Project/Meishi/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.facebook.fresco-drawee-0.14.1_d52d221eeb3a067390883979f146ae79f8fcb993/classes.dex" />
+    </item>
+    <item
+        jar="/home/jpeng/Project/Meishi/app/build/intermediates/exploded-aar/com.android.support/support-compat/24.2.1/jars/classes.jar"
+        jumboMode="true"
+        revision="23.0.1"
+        sha1="0ecb4b595fa0f0f8018a149ace3ea6525624f94e">
+        <dex dex="/home/jpeng/Project/Meishi/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.android.support-support-compat-24.2.1_7fbb144fdd83442443174050820f85c9c51f423a/classes.dex" />
+    </item>
+    <item
+        jar="/home/jpeng/Project/Meishi/app/build/intermediates/exploded-aar/com.android.support/support-media-compat/24.2.1/jars/libs/internal_impl-24.2.1.jar"
+        jumboMode="true"
+        revision="23.0.1"
+        sha1="fbf8da429efd5ad21e02e3e5ecaa1efc4167878d">
+        <dex dex="/home/jpeng/Project/Meishi/app/build/intermediates/transforms/dex/debug/folders/1000/10/internal_impl-24.2.1_a99f825b9b7cadc885ce23abbbb8747a50b3bf28/classes.dex" />
+    </item>
+    <item
+        jar="/home/jpeng/.gradle/caches/modules-2/files-2.1/com.facebook.rebound/rebound/0.3.8/c8b90640dddaf1e7ad75d7cb00b09a44b3788f7e/rebound-0.3.8.jar"
+        jumboMode="true"
+        revision="23.0.1"
+        sha1="c8b90640dddaf1e7ad75d7cb00b09a44b3788f7e">
+        <dex dex="/home/jpeng/Project/Meishi/app/build/intermediates/transforms/dex/debug/folders/1000/10/rebound-0.3.8_f584656af019f28b527731625ded3e590f22fe79/classes.dex" />
+    </item>
+    <item
+        jar="/home/jpeng/Project/Meishi/app/build/intermediates/exploded-aar/com.iarcuschin/simpleratingbar/0.1.3/jars/classes.jar"
+        jumboMode="true"
+        revision="23.0.1"
+        sha1="16caf9da5d06cd754ed22a53a9c1ef2a7e4713b1">
+        <dex dex="/home/jpeng/Project/Meishi/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.iarcuschin-simpleratingbar-0.1.3_f17b8bb8a25b2adbad877edb68fbb068642f7fc1/classes.dex" />
+    </item>
+    <item
+        jar="/home/jpeng/Project/Meishi/app/build/intermediates/exploded-aar/com.jpeng/jpspringmenu/1.0.1/jars/classes.jar"
+        jumboMode="true"
+        revision="23.0.1"
+        sha1="f51c25950042755e2ea2068cc45cf79cd610de1b">
+        <dex dex="/home/jpeng/Project/Meishi/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.jpeng-jpspringmenu-1.0.1_4f9b283d988c49e9d1909399efe77413178ef82c/classes.dex" />
+    </item>
+    <item
+        jar="/home/jpeng/Project/Meishi/app/build/intermediates/exploded-aar/net.qiujuer.genius/blur/2.0.0/jars/classes.jar"
+        jumboMode="true"
+        revision="23.0.1"
+        sha1="81ad9eb3ac36c469ccaa5db6a162cfdbf1da36d2">
+        <dex dex="/home/jpeng/Project/Meishi/app/build/intermediates/transforms/dex/debug/folders/1000/10/net.qiujuer.genius-blur-2.0.0_49ec0b1c38a4c2063beac4bedbf76104a091e175/classes.dex" />
+    </item>
+    <item
+        jar="/home/jpeng/Project/Meishi/app/build/intermediates/exploded-aar/com.android.support/support-vector-drawable/24.2.1/jars/classes.jar"
+        jumboMode="true"
+        revision="23.0.1"
+        sha1="d5c731fc64c03dfe04d51134955b483551c35849">
+        <dex dex="/home/jpeng/Project/Meishi/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.android.support-support-vector-drawable-24.2.1_c7171eabaa0d6e7357b944ae152ba374bafd60fb/classes.dex" />
+    </item>
+    <item
+        jar="/home/jpeng/Project/Meishi/app/build/intermediates/exploded-aar/com.android.support/support-core-ui/24.2.1/jars/classes.jar"
+        jumboMode="true"
+        revision="23.0.1"
+        sha1="e7f3132168957eefc46229fc32c3bd464642b71e">
+        <dex dex="/home/jpeng/Project/Meishi/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.android.support-support-core-ui-24.2.1_f18fad20d0d44b30ae5f4636cffd8c7ddde4c0e6/classes.dex" />
+    </item>
+    <item
+        jar="/home/jpeng/.gradle/caches/modules-2/files-2.1/com.squareup.okhttp3/okhttp/3.3.1/19047bdb6a4fc00a44124f64ca98e88fc204e7e3/okhttp-3.3.1.jar"
+        jumboMode="true"
+        revision="23.0.1"
+        sha1="19047bdb6a4fc00a44124f64ca98e88fc204e7e3">
+        <dex dex="/home/jpeng/Project/Meishi/app/build/intermediates/transforms/dex/debug/folders/1000/10/okhttp-3.3.1_61ae2b2fcc38e57b5aac6057f72fbc954cddd1d6/classes.dex" />
+    </item>
+    <item
+        jar="/home/jpeng/Project/Meishi/app/build/intermediates/exploded-aar/com.facebook.fresco/imagepipeline/0.14.1/jars/classes.jar"
+        jumboMode="true"
+        revision="23.0.1"
+        sha1="8795af3e130206443f2d5ed45f1b26067aff70dc">
+        <dex dex="/home/jpeng/Project/Meishi/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.facebook.fresco-imagepipeline-0.14.1_25dc7e662f65f8c5584c2dad17608b64b2d8e7ec/classes.dex" />
+    </item>
+    <item
+        jar="/home/jpeng/Project/Meishi/app/build/intermediates/exploded-aar/cn.finalteam/galleryfinal/1.4.8.7/jars/classes.jar"
+        jumboMode="true"
+        revision="23.0.1"
+        sha1="c74f0952cfb481882d8cedf4ca9f3c60289a3301">
+        <dex dex="/home/jpeng/Project/Meishi/app/build/intermediates/transforms/dex/debug/folders/1000/10/cn.finalteam-galleryfinal-1.4.8.7_6830fa81b3372e97c10c8dd98ddf501124f48e16/classes.dex" />
+    </item>
+    <item
+        jar="/home/jpeng/Project/Meishi/app/build/intermediates/exploded-aar/com.android.support/support-core-utils/24.2.1/jars/classes.jar"
+        jumboMode="true"
+        revision="23.0.1"
+        sha1="9c4c3bc902450c39ed54de170db4fb12aea20a35">
+        <dex dex="/home/jpeng/Project/Meishi/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.android.support-support-core-utils-24.2.1_60503c0f741741c70e33d280a915364907a9253a/classes.dex" />
+    </item>
+    <item
+        jar="/home/jpeng/Project/Meishi/app/build/intermediates/exploded-aar/com.zhy/okhttputils/2.6.2/jars/classes.jar"
+        jumboMode="true"
+        revision="23.0.1"
+        sha1="155fef2600f48631a9e9665c0873743b6d24e324">
+        <dex dex="/home/jpeng/Project/Meishi/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.zhy-okhttputils-2.6.2_f6ca877c69776a0352b59a48eb08159cd434dae9/classes.dex" />
+    </item>
+    <item
+        jar="/home/jpeng/Project/Meishi/app/build/intermediates/exploded-aar/com.android.support/support-core-ui/24.2.1/jars/libs/internal_impl-24.2.1.jar"
+        jumboMode="true"
+        revision="23.0.1"
+        sha1="867dad63c33388ff8c7644b236579355036d075f">
+        <dex dex="/home/jpeng/Project/Meishi/app/build/intermediates/transforms/dex/debug/folders/1000/10/internal_impl-24.2.1_56ba9c7cd6c1b203f8bbd7e66dd141c71f7f12a9/classes.dex" />
+    </item>
+    <item
+        jar="/home/jpeng/Project/Meishi/app/build/intermediates/exploded-aar/com.github.dongjunkun/DropDownMenu/1.0.3/jars/classes.jar"
+        jumboMode="true"
+        revision="23.0.1"
+        sha1="f95dcba6a3b912fbcea4f0c1b56f68fe91a97229">
+        <dex dex="/home/jpeng/Project/Meishi/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.github.dongjunkun-DropDownMenu-1.0.3_fab7a13bd783a73280c648ed80270cbef827abe6/classes.dex" />
+    </item>
+    <item
+        jar="/home/jpeng/Project/Meishi/app/build/intermediates/exploded-aar/com.handmark.pulltorefresh.library/PullToRefreshLibrary/2.1.1/jars/classes.jar"
+        jumboMode="true"
+        revision="23.0.1"
+        sha1="b0e815e5e3c7821cab28ddb243abb83b29af407f">
+        <dex dex="/home/jpeng/Project/Meishi/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.handmark.pulltorefresh.library-PullToRefreshLibrary-2.1.1_d7b44c9862fff78ee215cf4afecedf9ae63c2c44/classes.dex" />
+    </item>
+    <item
+        jar="/home/jpeng/.gradle/caches/modules-2/files-2.1/org.androidannotations/androidannotations/4.1.0/ae6a0c2e064abd7ceec6f95113aaa345c1bc51a3/androidannotations-4.1.0.jar"
+        jumboMode="true"
+        revision="23.0.1"
+        sha1="ae6a0c2e064abd7ceec6f95113aaa345c1bc51a3">
+        <dex dex="/home/jpeng/Project/Meishi/app/build/intermediates/transforms/dex/debug/folders/1000/10/androidannotations-4.1.0_a542850a4be5abc5f54ec75d5c63b68c6a48421d/classes.dex" />
+    </item>
+    <item
+        jar="/home/jpeng/Project/Meishi/app/build/intermediates/exploded-aar/com.facebook.fresco/imagepipeline-base/0.14.1/jars/classes.jar"
+        jumboMode="true"
+        revision="23.0.1"
+        sha1="b881010e06dc39be15b7465cd16492eedbab246f">
+        <dex dex="/home/jpeng/Project/Meishi/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.facebook.fresco-imagepipeline-base-0.14.1_74b1d3f2a257b27c2bf46a3a7e36ba23fa7b45ad/classes.dex" />
+    </item>
+    <item
+        jar="/home/jpeng/Project/Meishi/app/build/intermediates/exploded-aar/com.android.support/design/23.1.1/jars/classes.jar"
+        jumboMode="true"
+        revision="23.0.1"
+        sha1="379471b2bd17d9737c050345c08e8c7d16589784">
+        <dex dex="/home/jpeng/Project/Meishi/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.android.support-design-23.1.1_0ec97fb93810f17e747f66ac8047520496658c3e/classes.dex" />
+    </item>
+    <item
+        jar="/home/jpeng/Project/Meishi/app/build/intermediates/exploded-aar/com.android.support/support-fragment/24.2.1/jars/classes.jar"
+        jumboMode="true"
+        revision="23.0.1"
+        sha1="b9a1ac78ad7ef3abedc4a4b30cd92bcacb939d1f">
+        <dex dex="/home/jpeng/Project/Meishi/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.android.support-support-fragment-24.2.1_1102392a61d6e7990e1c336062e95318d5c537b4/classes.dex" />
+    </item>
+    <item
+        jar="/home/jpeng/Project/Meishi/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/24.2.1/jars/classes.jar"
+        jumboMode="true"
+        revision="23.0.1"
+        sha1="43b2dba6b5a0b14527961b75329d0b90025f15ea">
+        <dex dex="/home/jpeng/Project/Meishi/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.android.support-appcompat-v7-24.2.1_8c0b6e6b8f5abaff942ed1da8d4b9195016fd69f/classes.dex" />
+    </item>
+    <item
+        jar="/home/jpeng/Project/Meishi/app/build/intermediates/exploded-aar/com.facebook.fresco/imagepipeline-okhttp3/0.14.1/jars/classes.jar"
+        jumboMode="true"
+        revision="23.0.1"
+        sha1="d84e9113567f1b6f9631ee6a1721468c37ab9e6d">
+        <dex dex="/home/jpeng/Project/Meishi/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.facebook.fresco-imagepipeline-okhttp3-0.14.1_ae211c340cc7a722de34889cc4268ae2f8e57fc8/classes.dex" />
+    </item>
+    <item
+        jar="/home/jpeng/.gradle/caches/modules-2/files-2.1/com.google.code.findbugs/annotations/2.0.3/191383fa0deb88f393558eec231b206edc23aba0/annotations-2.0.3.jar"
+        jumboMode="true"
+        revision="23.0.1"
+        sha1="191383fa0deb88f393558eec231b206edc23aba0">
+        <dex dex="/home/jpeng/Project/Meishi/app/build/intermediates/transforms/dex/debug/folders/1000/10/annotations-2.0.3_9ff27d0b8e54ae6ad0f8cbd637fb5b6da0415aa3/classes.dex" />
+    </item>
+    <item
+        jar="/home/jpeng/Project/Meishi/app/build/intermediates/exploded-aar/com.android.support/animated-vector-drawable/24.2.1/jars/classes.jar"
+        jumboMode="true"
+        revision="23.0.1"
+        sha1="94bc1dfb84dcc8b6f6f8f7cc726d7b2dd39c1574">
+        <dex dex="/home/jpeng/Project/Meishi/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.android.support-animated-vector-drawable-24.2.1_63e55bc473e47abe03493bfc542676b622e1e8b6/classes.dex" />
+    </item>
+    <item
+        jar="/home/jpeng/.gradle/caches/modules-2/files-2.1/com.squareup.picasso/picasso/2.1.1/ab19bfb23f641f189b6dca9a4d393f8dc291103a/picasso-2.1.1.jar"
+        jumboMode="true"
+        revision="23.0.1"
+        sha1="ab19bfb23f641f189b6dca9a4d393f8dc291103a">
+        <dex dex="/home/jpeng/Project/Meishi/app/build/intermediates/transforms/dex/debug/folders/1000/10/picasso-2.1.1_d562744eda095d001fe5393935ac12c8e77ece08/classes.dex" />
+    </item>
+    <item
+        jar="/home/jpeng/.gradle/caches/modules-2/files-2.1/org.jetbrains/annotations-java5/15.0/7011b4551a8451906759b05814c58b9eb829ea9b/annotations-java5-15.0.jar"
+        jumboMode="true"
+        revision="23.0.1"
+        sha1="7011b4551a8451906759b05814c58b9eb829ea9b">
+        <dex dex="/home/jpeng/Project/Meishi/app/build/intermediates/transforms/dex/debug/folders/1000/10/annotations-java5-15.0_b1e9f1b69ff0a956f0c3e4e31833de19d8c81178/classes.dex" />
+    </item>
+    <item
+        jar="/home/jpeng/.gradle/caches/modules-2/files-2.1/com.helger/jcodemodel/2.8.5/446617f2ff6e4212bd8278d95e105f3eab630927/jcodemodel-2.8.5.jar"
+        jumboMode="true"
+        revision="23.0.1"
+        sha1="446617f2ff6e4212bd8278d95e105f3eab630927">
+        <dex dex="/home/jpeng/Project/Meishi/app/build/intermediates/transforms/dex/debug/folders/1000/10/jcodemodel-2.8.5_96ee11fa9a3ff35f43a7e81ee32077785a6ff3ae/classes.dex" />
+    </item>
+    <item
+        jar="/home/jpeng/.gradle/caches/modules-2/files-2.1/in.srain.cube/grid-view-with-header-footer/1.0.12/6b45a6bca9304d0ae6d26d01a2ea2f62bfe46a27/grid-view-with-header-footer-1.0.12.jar"
+        jumboMode="true"
+        revision="23.0.1"
+        sha1="6b45a6bca9304d0ae6d26d01a2ea2f62bfe46a27">
+        <dex dex="/home/jpeng/Project/Meishi/app/build/intermediates/transforms/dex/debug/folders/1000/10/grid-view-with-header-footer-1.0.12_9f853c9b2f36a2342762ae86d0b2eef0bf185446/classes.dex" />
+    </item>
+    <item
+        jar="/home/jpeng/Project/Meishi/app/build/intermediates/exploded-aar/com.jpeng/LoadingProgress/1.0.5/jars/classes.jar"
+        jumboMode="true"
+        revision="23.0.1"
+        sha1="ad37a70d48031c413d4bd54e59d046d34c0e462d">
+        <dex dex="/home/jpeng/Project/Meishi/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.jpeng-LoadingProgress-1.0.5_4eddcd962da4783767198ced0e85e9a10d07eb0b/classes.dex" />
+    </item>
+    <item
+        jar="/home/jpeng/.gradle/caches/modules-2/files-2.1/com.joanzapata.android/base-adapter-helper/1.1.11/d86e2fb7131ec0bb37fab3421b9d27727200fda/base-adapter-helper-1.1.11.jar"
+        jumboMode="true"
+        revision="23.0.1"
+        sha1="0d86e2fb7131ec0bb37fab3421b9d27727200fda">
+        <dex dex="/home/jpeng/Project/Meishi/app/build/intermediates/transforms/dex/debug/folders/1000/10/base-adapter-helper-1.1.11_4bd1f80b8ee5e6ca235d5c326f45d34709e5cc3d/classes.dex" />
+    </item>
+    <item
+        jar="/home/jpeng/.gradle/caches/modules-2/files-2.1/org.androidannotations/androidannotations-api/4.1.0/5f9b485312ee0ee95355d517f36890915de1bff0/androidannotations-api-4.1.0.jar"
+        jumboMode="true"
+        revision="23.0.1"
+        sha1="5f9b485312ee0ee95355d517f36890915de1bff0">
+        <dex dex="/home/jpeng/Project/Meishi/app/build/intermediates/transforms/dex/debug/folders/1000/10/androidannotations-api-4.1.0_bdc30643e39c5d256fb58d84ab69940582a9751b/classes.dex" />
+    </item>
+    <item
+        jar="/home/jpeng/Project/Meishi/app/build/intermediates/exploded-aar/cn.finalteam/toolsfinal/1.1.5/jars/classes.jar"
+        jumboMode="true"
+        revision="23.0.1"
+        sha1="966da5b6a8bfdef0bfc660e349f8765dde5cb6f3">
+        <dex dex="/home/jpeng/Project/Meishi/app/build/intermediates/transforms/dex/debug/folders/1000/10/cn.finalteam-toolsfinal-1.1.5_c6e044181f889cd409343268d3df9c49b94320e9/classes.dex" />
+    </item>
+    <item
+        jar="/home/jpeng/android开发/android-sdk-linux/extras/android/m2repository/com/android/support/support-annotations/24.2.1/support-annotations-24.2.1.jar"
+        jumboMode="true"
+        revision="23.0.1"
+        sha1="8de3aafecbdf98a61db6427f008f2d515bcd2544">
+        <dex dex="/home/jpeng/Project/Meishi/app/build/intermediates/transforms/dex/debug/folders/1000/10/support-annotations-24.2.1_0b69e1932200b8a751fbe28137399084693f4781/classes.dex" />
+    </item>
+    <item
+        jar="/home/jpeng/Project/Meishi/app/build/intermediates/exploded-aar/com.android.support/support-compat/24.2.1/jars/libs/internal_impl-24.2.1.jar"
+        jumboMode="true"
+        revision="23.0.1"
+        sha1="7e4389bd133359a2ff88623ff1e4ff93d6e6f780">
+        <dex dex="/home/jpeng/Project/Meishi/app/build/intermediates/transforms/dex/debug/folders/1000/10/internal_impl-24.2.1_ca2e99d5b9be50ce0ef8143bbc75ac774e0bf638/classes.dex" />
+    </item>
+    <item
+        jar="/home/jpeng/Project/Meishi/app/build/intermediates/exploded-aar/com.facebook.stetho/stetho/1.4.1/jars/classes.jar"
+        jumboMode="true"
+        revision="23.0.1"
+        sha1="26b6f0185cbba8917ba9d9d0bd170f95311622ab">
+        <dex dex="/home/jpeng/Project/Meishi/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.facebook.stetho-stetho-1.4.1_a21a753b66dfbac7056923eb19a298e4f1b26688/classes.dex" />
+    </item>
+    <item
+        jar="/home/jpeng/Project/Meishi/app/build/intermediates/exploded-aar/com.android.support/support-fragment/24.2.1/jars/libs/internal_impl-24.2.1.jar"
+        jumboMode="true"
+        revision="23.0.1"
+        sha1="5f64d657e838e8375135c0f6057a7ff8fab6a50e">
+        <dex dex="/home/jpeng/Project/Meishi/app/build/intermediates/transforms/dex/debug/folders/1000/10/internal_impl-24.2.1_967ac3ba96b34be6a2e9e552ebfb67b0a0742ce9/classes.dex" />
+    </item>
+    <item
+        jar="/home/jpeng/Project/Meishi/app/build/intermediates/exploded-aar/com.blankj/utilcode/1.2.1/jars/classes.jar"
+        jumboMode="true"
+        revision="23.0.1"
+        sha1="51ce8c3ffe6e5949901886a7d193fd7388e1e21e">
+        <dex dex="/home/jpeng/Project/Meishi/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.blankj-utilcode-1.2.1_5f7aa37dcffb612b19afd338e1122f1b35f02805/classes.dex" />
+    </item>
+    <item
+        jar="/home/jpeng/Project/Meishi/app/build/intermediates/exploded-aar/com.github.satyan/sugar/1.5/jars/classes.jar"
+        jumboMode="true"
+        revision="23.0.1"
+        sha1="19a40a8afe0289f6520b25353096ac233e78f69d">
+        <dex dex="/home/jpeng/Project/Meishi/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.github.satyan-sugar-1.5_a40c53a01c39d1f8eeaaabe57d84676928cae683/classes.dex" />
+    </item>
+    <item
+        jar="/home/jpeng/Project/Meishi/app/build/intermediates/exploded-aar/com.android.support/recyclerview-v7/23.1.1/jars/classes.jar"
+        jumboMode="true"
+        revision="23.0.1"
+        sha1="09c5e804bc67fc0580360043dff067df574a60d4">
+        <dex dex="/home/jpeng/Project/Meishi/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.android.support-recyclerview-v7-23.1.1_569749cbcaa29a603ef5ac1773112783e2227b3e/classes.dex" />
+    </item>
+    <item
+        jar="/home/jpeng/Project/Meishi/app/build/intermediates/exploded-aar/me.majiajie/pager-bottom-tab-strip/1.0.0/jars/classes.jar"
+        jumboMode="true"
+        revision="23.0.1"
+        sha1="cbd605407170445cf5aa765ce4cb4947df0d0d9c">
+        <dex dex="/home/jpeng/Project/Meishi/app/build/intermediates/transforms/dex/debug/folders/1000/10/me.majiajie-pager-bottom-tab-strip-1.0.0_7666188c532ca52eaeb89ec5276386d4adff336f/classes.dex" />
+    </item>
+    <item
+        jar="/home/jpeng/Project/Meishi/app/build/intermediates/exploded-aar/com.android.support/support-v4/24.2.1/jars/classes.jar"
+        jumboMode="true"
+        revision="23.0.1"
+        sha1="d7c42c80f6509b9ea4db28ca7859ffae08ec5741">
+        <dex dex="/home/jpeng/Project/Meishi/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.android.support-support-v4-24.2.1_a933af418e5a1394c43b30308633e5f7511a9988/classes.dex" />
+    </item>
+    <item
+        jar="/home/jpeng/.gradle/caches/modules-2/files-2.1/com.parse.bolts/bolts-tasks/1.4.0/d85884acf6810a3bbbecb587f239005cbc846dc4/bolts-tasks-1.4.0.jar"
+        jumboMode="true"
+        revision="23.0.1"
+        sha1="d85884acf6810a3bbbecb587f239005cbc846dc4">
+        <dex dex="/home/jpeng/Project/Meishi/app/build/intermediates/transforms/dex/debug/folders/1000/10/bolts-tasks-1.4.0_7b8048a85f92648e8049fed308fc9881967747f2/classes.dex" />
+    </item>
+    <item
+        jar="/home/jpeng/Project/Meishi/app/build/intermediates/exploded-aar/cn.bingoogolapple/bga-banner/2.0.9/jars/classes.jar"
+        jumboMode="true"
+        revision="23.0.1"
+        sha1="6a89617975ac64083ad9086b8ca3a315ddffa789">
+        <dex dex="/home/jpeng/Project/Meishi/app/build/intermediates/transforms/dex/debug/folders/1000/10/cn.bingoogolapple-bga-banner-2.0.9_9a438cf352ef85c6bff5a60b3473ed0c55509cb2/classes.dex" />
+    </item>
+    <item
+        jar="/home/jpeng/.gradle/caches/modules-2/files-2.1/commons-cli/commons-cli/1.2/2bf96b7aa8b611c177d329452af1dc933e14501c/commons-cli-1.2.jar"
+        jumboMode="true"
+        revision="23.0.1"
+        sha1="2bf96b7aa8b611c177d329452af1dc933e14501c">
+        <dex dex="/home/jpeng/Project/Meishi/app/build/intermediates/transforms/dex/debug/folders/1000/10/commons-cli-1.2_979ded031f0d06372999b3160765a44d14f8d052/classes.dex" />
+    </item>
+    <item
+        jar="/home/jpeng/Project/Meishi/app/build/intermediates/exploded-aar/com.specyci/residemenu/1.6/jars/classes.jar"
+        jumboMode="true"
+        revision="23.0.1"
+        sha1="5e309b1df3051abebbfda31d1c80cd19bec617da">
+        <dex dex="/home/jpeng/Project/Meishi/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.specyci-residemenu-1.6_5fff95ce2ba938102bc4b99dd38e7c6abee07671/classes.dex" />
+    </item>
+    <item
+        jar="/home/jpeng/Project/Meishi/app/build/intermediates/exploded-aar/cn.bingoogolapple/bga-titlebar/1.0.3/jars/classes.jar"
+        jumboMode="true"
+        revision="23.0.1"
+        sha1="b4b90966694b8179ee0043b700bec6ae99df8971">
+        <dex dex="/home/jpeng/Project/Meishi/app/build/intermediates/transforms/dex/debug/folders/1000/10/cn.bingoogolapple-bga-titlebar-1.0.3_3891bfcb1fb1fd9f56adb00031b5fe6143ee3672/classes.dex" />
+    </item>
+    <item
+        jar="/home/jpeng/.gradle/caches/modules-2/files-2.1/com.squareup.okio/okio/1.8.0/5ea7af56cc7c567ed9856d99efb30740e9b17ff/okio-1.8.0.jar"
+        jumboMode="true"
+        revision="23.0.1"
+        sha1="05ea7af56cc7c567ed9856d99efb30740e9b17ff">
+        <dex dex="/home/jpeng/Project/Meishi/app/build/intermediates/transforms/dex/debug/folders/1000/10/okio-1.8.0_2ec49c88b228fc05490f514090b21de2bd6f2a13/classes.dex" />
+    </item>
+    <item
+        jar="/home/jpeng/Project/Meishi/app/build/intermediates/exploded-aar/com.facebook.fresco/fresco/0.14.1/jars/classes.jar"
+        jumboMode="true"
+        revision="23.0.1"
+        sha1="c77602d43223db798b1ca56cf307ab0ee3c0e63f">
+        <dex dex="/home/jpeng/Project/Meishi/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.facebook.fresco-fresco-0.14.1_002bb49fcc8726f4c5c1bb14f3608ebb557d76ef/classes.dex" />
+    </item>
+    <item
+        jar="/home/jpeng/Project/Meishi/app/build/intermediates/exploded-aar/com.specyci/residemenu/1.6/jars/libs/nineoldandroids-library-2.4.0.jar"
+        jumboMode="true"
+        revision="23.0.1"
+        sha1="e9b63380f3a242dbdbf103a2355ad7e43bad17cb">
+        <dex dex="/home/jpeng/Project/Meishi/app/build/intermediates/transforms/dex/debug/folders/1000/10/nineoldandroids-library-2.4.0_6d17158b55ded08a872b8fb8c047061bd35524af/classes.dex" />
+    </item>
+    <item
+        jar="/home/jpeng/Project/Meishi/app/build/intermediates/exploded-aar/com.android.support/multidex/1.0.1/jars/classes.jar"
+        jumboMode="true"
+        revision="23.0.1"
+        sha1="78ea232052df889856dcb7b7b542707c89bb3bfb">
+        <dex dex="/home/jpeng/Project/Meishi/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.android.support-multidex-1.0.1_ff375de8eb7f4ebccfb0f7fff13988791b1bff20/classes.dex" />
+    </item>
+    <item
+        jar="/home/jpeng/Project/Meishi/app/build/intermediates/exploded-aar/com.felipecsl.asymmetricgridview/library/2.0.1/jars/classes.jar"
+        jumboMode="true"
+        revision="23.0.1"
+        sha1="cbfc065e5d005dda42cc7dd58d477e2f29926f0e">
+        <dex dex="/home/jpeng/Project/Meishi/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.felipecsl.asymmetricgridview-library-2.0.1_ae72deab33dd6fd3dd7c0bb0df7a372f49000fc7/classes.dex" />
+    </item>
+    <item
+        jar="/home/jpeng/Project/Meishi/app/build/intermediates/exploded-aar/com.miguelcatalan/materialsearchview/1.4.0/jars/classes.jar"
+        jumboMode="true"
+        revision="23.0.1"
+        sha1="918e3e9514d90e54421b674cf0c95044f4e155ad">
+        <dex dex="/home/jpeng/Project/Meishi/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.miguelcatalan-materialsearchview-1.4.0_e602bc31e05d340288b75c6bd4c5fd24bfbd90cb/classes.dex" />
+    </item>
+    <item
+        jar="/home/jpeng/Project/Meishi/app/build/intermediates/exploded-aar/com.android.support/support-media-compat/24.2.1/jars/classes.jar"
+        jumboMode="true"
+        revision="23.0.1"
+        sha1="09b462bbcb77650284bd6614f1a32f360ef369f8">
+        <dex dex="/home/jpeng/Project/Meishi/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.android.support-support-media-compat-24.2.1_d05503aa04793322670e1895764ed8e29d2aca2d/classes.dex" />
+    </item>
+    <item
+        jar="/home/jpeng/Project/Meishi/app/build/intermediates/exploded-aar/com.android.support/support-core-utils/24.2.1/jars/libs/internal_impl-24.2.1.jar"
+        jumboMode="true"
+        revision="23.0.1"
+        sha1="935a969265b2a166b2d20415423f5f6e90fe16e0">
+        <dex dex="/home/jpeng/Project/Meishi/app/build/intermediates/transforms/dex/debug/folders/1000/10/internal_impl-24.2.1_520ce9b20b4db5ca1c29fafa10c9abac7f14ab31/classes.dex" />
+    </item>
+
+</items>

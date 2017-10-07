@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="utf-8"?>
+<com.handmark.pulltorefresh.library.PullToRefreshListView
+    xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:ptr="http://schemas.android.com/apk/res-auto"
+    android:id="@id/id_stickynavlayout_innerscrollview"
+    android:layout_width="match_parent"
+    android:divider="@color/diver_color"
+    android:dividerHeight="1px"
+    android:layout_height="match_parent"
+    ptr:ptrMode="pullUpFromBottom"
+    >
+
+</com.handmark.pulltorefresh.library.PullToRefreshListView>

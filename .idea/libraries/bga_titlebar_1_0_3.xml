@@ -1,0 +1,12 @@
+<component name="libraryTable">
+  <library name="bga-titlebar-1.0.3">
+    <CLASSES>
+      <root url="file://$PROJECT_DIR$/app/build/intermediates/exploded-aar/cn.bingoogolapple/bga-titlebar/1.0.3/res" />
+      <root url="jar://$PROJECT_DIR$/app/build/intermediates/exploded-aar/cn.bingoogolapple/bga-titlebar/1.0.3/jars/classes.jar!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES>
+      <root url="jar://$USER_HOME$/.gradle/caches/modules-2/files-2.1/cn.bingoogolapple/bga-titlebar/1.0.3/39c6a47a30512152111a5a825b97e2ec4c32aaf0/bga-titlebar-1.0.3-sources.jar!/" />
+    </SOURCES>
+  </library>
+</component>

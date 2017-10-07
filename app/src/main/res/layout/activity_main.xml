@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+                xmlns:app="http://schemas.android.com/apk/res-auto"
+                android:id="@+id/main_layout"
+                android:layout_width="match_parent"
+                android:layout_height="match_parent"
+                android:background="#eaeaea"
+             >
+
+    <cn.bingoogolapple.titlebar.BGATitlebar
+        android:id="@+id/main_titlebar"
+        style="@style/Widget.AppCompat.ActionBar"
+        android:layout_width="match_parent"
+        android:layout_height="48dp"
+        android:background="@color/navegive_color"
+        app:bgatitlebar_leftDrawable="@drawable/main_left_btn"
+        app:bgatitlebar_rightDrawable="@drawable/main_right_btn"
+        app:bgatitlebar_titleText="qwe"
+        app:bgatitlebar_titleTextColor="@color/white"
+        />
+
+    <com.peng.meishi.widget.NoScrollViewPager
+        android:id="@+id/main_viewpager"
+        android:layout_width="match_parent"
+        android:layout_height="match_parent"
+        android:layout_above="@+id/Main_bottomtab"
+        android:layout_below="@id/main_titlebar"
+        />
+
+
+    <me.majiajie.pagerbottomtabstrip.PagerBottomTabLayout
+        android:id="@+id/Main_bottomtab"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:layout_alignParentBottom="true"
+        app:elevation="8dp"/>
+
+</RelativeLayout>
